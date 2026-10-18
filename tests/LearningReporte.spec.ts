@@ -22,7 +22,7 @@ test("Learning Reporter2", async({page})=>{
 
 test("Learning Reporter3", async({page})=>{
 
-    await page.goto("https://www.google1.com/")
+    await page.goto("https://www.google.com/")
     await page.getByRole('combobox', { name: 'Search' }).fill("Playwright")
     await page.getByRole('combobox', { name: 'Search' }).press("Enter")
 
