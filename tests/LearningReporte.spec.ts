@@ -28,4 +28,13 @@ test("Learning Reporter3", async({page})=>{
 
 
 }) 
+test("Learning Reporter4", async({page})=>{
+
+    await page.goto("https://www.google.com/")
+    await page.getByRole('combobox', { name: 'Search' }).fill("Selenium")
+    await page.getByRole('combobox', { name: 'Search' }).press("Enter")
+
+
+}) 
+
 
