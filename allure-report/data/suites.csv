@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3751","Learning Reporter5","chromium","2026-10-17","passed","2026-10-17","","LearningReporte1.spec.ts","",""
+"","3629","Learning Reporter4","chromium","2026-10-17","passed","2026-10-17","","LearningReporte1.spec.ts","",""
+"","3775","Learning Reporter2","chromium","2026-10-17","passed","2026-10-17","","LearningReporte.spec.ts","",""
+"","613","Learning Reporter3","chromium","2026-10-17","failed","2026-10-17","","LearningReporte.spec.ts","",""
+"","4707","Learning Reporter1","chromium","2026-10-17","passed","2026-10-17","","LearningReporte.spec.ts","",""
+"","1834","Learning Reporter6","chromium","2026-10-17","passed","2026-10-17","","LearningReporte1.spec.ts","",""
