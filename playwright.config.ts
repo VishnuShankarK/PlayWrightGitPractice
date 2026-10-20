@@ -25,7 +25,8 @@ export default defineConfig({
   // grep:/UI/,
   // grepInvert:/SMOKEPROD/,
   // reporter: [[json, {outputfile:'jsonreport2.json' }]],
-  reporter: [["allure-Playwright", {outputfolder : "Allurerepoerfiles"}]],
+  // reporter: [["allure-Playwright", {outputfolder : "Allurerepoerfiles"}]],
+  reporter: 'html',
   testDir: './tests',
   /* Run tests in files in parallel */
   fullyParallel: true,
